@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ratnakar18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web2.0 web 3.0 and blockchain
+- 🌱 I’m currently learning these things
 - 📫 contact me ratnakargoswami18@gmail.com
 
 
